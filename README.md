@@ -3,7 +3,7 @@
 myfirstpack
 ===========
 
-The goal of myfirstpack is to c'est bon j'ai pris le controle de ton github
+The goal of myfirstpack is to c'est bon j'ai pris le controle de ton github sisi
 
 Installation
 ------------
